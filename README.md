@@ -19,9 +19,8 @@ Một Chrome extension tự động hóa hành động trên Discord với các 
 ## 🚀 Cài đặt
 
 1. Clone hoặc download project:
-```bash
-git clone https://github.com/Daylight2k/AutoTuTienDiscord.git
-```
+   1. ấn vào button <> Code màu xanh
+   2. ấn download zip
 
 2. Mở Chrome và truy cập `chrome://extensions/`
 
